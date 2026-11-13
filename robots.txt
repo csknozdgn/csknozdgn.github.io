@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://csknozdgn.github.io/sitemap.xml
