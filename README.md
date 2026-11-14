@@ -11,8 +11,7 @@
 [![Web Sitesi](https://img.shields.io/badge/Web_Sitesi-csknozdgn.github.io-3E7BFF?style=for-the-badge)](https://csknozdgn.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-csknozdgn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/csknozdgn)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4095--156X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4095-156X)
-[![Tez 2025](https://img.shields.io/badge/Tez_2025-960236-F6B84B?style=for-the-badge)](https://tezara.org/theses/960236)
-[![Tez 2023](https://img.shields.io/badge/Tez_2023-823236-F6B84B?style=for-the-badge)](https://tezara.org/theses/823236)
+
 
 </div>
 
@@ -47,11 +46,11 @@ Uluslararası stratejik yönetim yaklaşımıyla işletmelerin yönetim modeller
 
 ## Eğitim
 
-| Yıl | Kurum | Program |
-|---|---|---|
-| - | İstanbul Nişantaşı Üniversitesi | Yüksek Lisans — Bilgisayar Mühendisliği (Lisansüstü Eğitim Enstitüsü) |
-| - | İstanbul Nişantaşı Üniversitesi | Yüksek Lisans — Uluslararası İşletmecilik (İşletme Ana Bilim Dalı) |
-| - | Gebze Teknik Üniversitesi | Eğitim kaydı (LinkedIn ve ORCID profillerinde listelenmektedir) |
+| Kurum | Program |
+|---|---|
+| Yüksek Lisans — Bilgisayar Mühendisliği (Lisansüstü Eğitim Enstitüsü) |
+| Yüksek Lisans — Uluslararası İşletmecilik (İşletme Ana Bilim Dalı) |
+| Lisans - Gebze Teknik Üniversitesi | 
 
 ## Akademik Çalışmalar
 
@@ -60,8 +59,8 @@ Uluslararası stratejik yönetim yaklaşımıyla işletmelerin yönetim modeller
 *Management and organizational digital transformation in international businesses: An artificial intelligence application*
 
 - **Tür:** Yüksek Lisans Tezi · **YÖK Tez No:** 960236 · **Dil:** Türkçe
-- **Üniversite:** İstanbul Nişantaşı Üniversitesi — Lisansüstü Eğitim Enstitüsü, Bilgisayar Mühendisliği Ana Bilim Dalı
-- **Kayıt:** [tezara.org/theses/960236](https://tezara.org/theses/960236)
+- **Üniversite:** Lisansüstü Eğitim Enstitüsü, Bilgisayar Mühendisliği Ana Bilim Dalı
+
 
 <details>
 <summary><strong>Özet</strong></summary>
@@ -73,13 +72,13 @@ Bu tez çalışması, uluslararası işletmelerde dijital dönüşümün ve yapa
 
 > Özdoğan, C. (2025). *Uluslararası işletmelerde yönetim ve organizasyonel dijital dönüşüm: Bir yapay zekâ uygulaması* (Yüksek lisans tezi, İstanbul Nişantaşı Üniversitesi). YÖK Tez No: 960236. https://tezara.org/theses/960236
 
-### 2023 — İşletmelerde online eğitimin personel üzerine etkilerinin değerlendirilmesi
+### İşletmelerde online eğitimin personel üzerine etkilerinin değerlendirilmesi
 
 *Assessing the effects of online training on employees in businesses*
 
 - **Tür:** Yüksek Lisans Tezi · **YÖK Tez No:** 823236 · **Dil:** Türkçe
-- **Üniversite:** İstanbul Nişantaşı Üniversitesi — Lisansüstü Eğitim Enstitüsü, İşletme Ana Bilim Dalı / Uluslararası İşletmecilik Bilim Dalı
-- **Kayıt:** [tezara.org/theses/823236](https://tezara.org/theses/823236)
+- **Üniversite:** Lisansüstü Eğitim Enstitüsü, İşletme Ana Bilim Dalı / Uluslararası İşletmecilik Bilim Dalı
+
 
 <details>
 <summary><strong>Özet</strong></summary>
@@ -98,8 +97,7 @@ Bu çalışma, işletme ortamlarında online eğitimin personel üzerindeki etki
 | Kişisel Web Sitesi | [csknozdgn.github.io](https://csknozdgn.github.io/) |
 | LinkedIn | [linkedin.com/in/csknozdgn](https://www.linkedin.com/in/csknozdgn) |
 | ORCID | [0009-0001-4095-156X](https://orcid.org/0009-0001-4095-156X) |
-| Tez (2025) | [tezara.org/theses/960236](https://tezara.org/theses/960236) |
-| Tez (2023) | [tezara.org/theses/823236](https://tezara.org/theses/823236) |
+
 
 ## Bu Depo
 
