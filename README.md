@@ -49,13 +49,13 @@ Uluslararası stratejik yönetim yaklaşımıyla işletmelerin yönetim modeller
 
 | Yıl | Kurum | Program |
 |---|---|---|
-| 2025 | İstanbul Nişantaşı Üniversitesi | Yüksek Lisans — Bilgisayar Mühendisliği (Lisansüstü Eğitim Enstitüsü) |
-| 2023 | İstanbul Nişantaşı Üniversitesi | Yüksek Lisans — Uluslararası İşletmecilik (İşletme Ana Bilim Dalı) |
-| — | Gebze Teknik Üniversitesi | Eğitim kaydı (LinkedIn ve ORCID profillerinde listelenmektedir) |
+| - | İstanbul Nişantaşı Üniversitesi | Yüksek Lisans — Bilgisayar Mühendisliği (Lisansüstü Eğitim Enstitüsü) |
+| - | İstanbul Nişantaşı Üniversitesi | Yüksek Lisans — Uluslararası İşletmecilik (İşletme Ana Bilim Dalı) |
+| - | Gebze Teknik Üniversitesi | Eğitim kaydı (LinkedIn ve ORCID profillerinde listelenmektedir) |
 
 ## Akademik Çalışmalar
 
-### 2025 — Uluslararası işletmelerde yönetim ve organizasyonel dijital dönüşüm: Bir yapay zekâ uygulaması
+### Uluslararası işletmelerde yönetim ve organizasyonel dijital dönüşüm: Bir yapay zekâ uygulaması
 
 *Management and organizational digital transformation in international businesses: An artificial intelligence application*
 
