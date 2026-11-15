@@ -70,7 +70,7 @@ Bu tez çalışması, uluslararası işletmelerde dijital dönüşümün ve yapa
 
 **Atıf:**
 
-> Özdoğan, C. (2025). *Uluslararası işletmelerde yönetim ve organizasyonel dijital dönüşüm: Bir yapay zekâ uygulaması* (Yüksek lisans tezi, İstanbul Nişantaşı Üniversitesi). YÖK Tez No: 960236. https://tezara.org/theses/960236
+> Özdoğan, C. (2025). *Uluslararası işletmelerde yönetim ve organizasyonel dijital dönüşüm: Bir yapay zekâ uygulaması* (Yüksek lisans tezi). YÖK Tez No: 960236. 
 
 ### İşletmelerde online eğitimin personel üzerine etkilerinin değerlendirilmesi
 
@@ -88,7 +88,7 @@ Bu çalışma, işletme ortamlarında online eğitimin personel üzerindeki etki
 
 **Atıf:**
 
-> Özdoğan, C. (2023). *İşletmelerde online eğitimin personel üzerine etkilerinin değerlendirilmesi* (Yüksek lisans tezi, İstanbul Nişantaşı Üniversitesi). YÖK Tez No: 823236. https://tezara.org/theses/823236
+> Özdoğan, C. (2023). *İşletmelerde online eğitimin personel üzerine etkilerinin değerlendirilmesi* (Yüksek lisans tezi). YÖK Tez No: 823236. 
 
 ## Resmî Profiller
 
@@ -113,7 +113,7 @@ Yayın: **GitHub Pages** → [csknozdgn.github.io](https://csknozdgn.github.io/)
 
 <div align="center">
 
-*Coşkun Özdoğan (Coskun Ozdogan) — yapay zekâ, dijital dönüşüm, uluslararası stratejik yönetim, kurumsal dönüşüm · İstanbul Nişantaşı Üniversitesi · Gebze Teknik Üniversitesi*
+*Coşkun Özdoğan (Coskun Ozdogan) — yapay zekâ, dijital dönüşüm, uluslararası stratejik yönetim, kurumsal dönüşüm · Gebze Teknik Üniversitesi*
 
 © 2026 Coşkun Özdoğan
 
