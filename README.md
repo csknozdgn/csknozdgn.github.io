@@ -46,7 +46,7 @@ Uluslararası stratejik yönetim yaklaşımıyla işletmelerin yönetim modeller
 
 ## Eğitim
 
-|  |  |
+| Akademi | Program |
 |---|---|
 | Yüksek Lisans | Bilgisayar Mühendisliği (Mühendislik Ana Bilim Dalı) |
 | Yüksek Lisans | Uluslararası İşletmecilik (İşletme Ana Bilim Dalı) |
