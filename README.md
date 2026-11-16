@@ -46,11 +46,11 @@ Uluslararası stratejik yönetim yaklaşımıyla işletmelerin yönetim modeller
 
 ## Eğitim
 
-| Kurum | Program |
+| Derece | Program |
 |---|---|
-| Yüksek Lisans — Bilgisayar Mühendisliği (Lisansüstü Eğitim Enstitüsü) |
-| Yüksek Lisans — Uluslararası İşletmecilik (İşletme Ana Bilim Dalı) |
-| Lisans - Gebze Teknik Üniversitesi | 
+| Yüksek Lisans | Bilgisayar Mühendisliği (Lisansüstü Eğitim Enstitüsü) |
+| Yüksek Lisans | Uluslararası İşletmecilik (İşletme Ana Bilim Dalı) |
+| Lisans | Gebze Teknik Üniversitesi | 
 
 ## Akademik Çalışmalar
 
