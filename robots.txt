@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /404.html
 
 Sitemap: https://csknozdgn.github.io/sitemap.xml
