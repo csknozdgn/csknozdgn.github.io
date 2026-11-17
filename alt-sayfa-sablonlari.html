@@ -1,0 +1,141 @@
+<!--
+ALT SAYFA ŞABLONLARI (hakkinda, uzmanlik, egitim, tezler, profiller)
+Her sayfanın <head> bölümüne kendi değerleriyle yapıştırın.
+Sayfa adreslerinde uzantısız biçim kullanılıyor (/tezler). Tek biçimi koruyun.
+
+SAYFA        | URL                                       | TITLE
+hakkinda     | https://csknozdgn.github.io/hakkinda      | Hakkında | Coşkun Özdoğan
+uzmanlik     | https://csknozdgn.github.io/uzmanlik      | Uzmanlık Alanları | Coşkun Özdoğan
+egitim       | https://csknozdgn.github.io/egitim        | Eğitim | Coşkun Özdoğan
+tezler       | https://csknozdgn.github.io/tezler        | Akademik Tezler | Coşkun Özdoğan
+profiller    | https://csknozdgn.github.io/profiller     | Resmî Profiller | Coşkun Özdoğan
+-->
+
+<!-- ========== 1) ORTAK <head> ETİKETLERİ (örnek: tezler) ========== -->
+<title>Akademik Tezler | Coşkun Özdoğan</title>
+<meta name="description" content="Coşkun Özdoğan'ın YÖK'te kayıtlı iki yüksek lisans tezi: yapay zekâ ile organizasyonel dijital dönüşüm ve online eğitimin personel üzerindeki etkileri.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://csknozdgn.github.io/tezler">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Akademik Tezler | Coşkun Özdoğan">
+<meta property="og:description" content="Coşkun Özdoğan'ın YÖK'te kayıtlı iki yüksek lisans tezi ve özetleri.">
+<meta property="og:url" content="https://csknozdgn.github.io/tezler">
+<meta property="og:site_name" content="Coşkun Özdoğan">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:image" content="https://csknozdgn.github.io/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Akademik Tezler | Coşkun Özdoğan">
+<meta name="twitter:description" content="Coşkun Özdoğan'ın YÖK'te kayıtlı iki yüksek lisans tezi ve özetleri.">
+<meta name="twitter:image" content="https://csknozdgn.github.io/og-image.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+<!-- ========== 2) TEZLER SAYFASI JSON-LD ==========
+Tez kartlarına şu id'leri verin:
+  <article id="thesis-960236"> ... </article>
+  <article id="thesis-823236"> ... </article>
+Üniversite adlarını ve YÖK kayıt bağlantılarını bildiğinizde "sourceOrganization" ve "sameAs" satırlarını ekleyin. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://csknozdgn.github.io/tezler#webpage",
+      "url": "https://csknozdgn.github.io/tezler",
+      "name": "Akademik Tezler | Coşkun Özdoğan",
+      "inLanguage": "tr",
+      "isPartOf": { "@id": "https://csknozdgn.github.io/#website" },
+      "about": { "@id": "https://csknozdgn.github.io/#person" },
+      "hasPart": [
+        { "@id": "https://csknozdgn.github.io/#thesis-960236" },
+        { "@id": "https://csknozdgn.github.io/#thesis-823236" }
+      ],
+      "breadcrumb": { "@id": "https://csknozdgn.github.io/tezler#breadcrumb" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://csknozdgn.github.io/tezler#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Ana Sayfa", "item": "https://csknozdgn.github.io/" },
+        { "@type": "ListItem", "position": 2, "name": "Tezler", "item": "https://csknozdgn.github.io/tezler" }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://csknozdgn.github.io/#person",
+      "name": "Coşkun Özdoğan",
+      "alternateName": "Coskun Ozdogan",
+      "url": "https://csknozdgn.github.io/",
+      "sameAs": [
+        "https://www.linkedin.com/in/csknozdgn",
+        "https://orcid.org/0009-0001-4095-156X",
+        "https://github.com/csknozdgn"
+      ]
+    },
+    {
+      "@type": "Thesis",
+      "@id": "https://csknozdgn.github.io/#thesis-960236",
+      "name": "Uluslararası işletmelerde yönetim ve organizasyonel dijital dönüşüm: Bir yapay zekâ uygulaması",
+      "alternativeHeadline": "Management and organizational digital transformation in international businesses: An artificial intelligence application",
+      "author": { "@id": "https://csknozdgn.github.io/#person" },
+      "datePublished": "2025",
+      "inLanguage": "tr",
+      "inSupportOf": "Yüksek Lisans (Bilgisayar Mühendisliği)",
+      "identifier": "YÖK Tez No: 960236",
+      "url": "https://csknozdgn.github.io/tezler#thesis-960236",
+      "abstract": "Bu tez çalışması, uluslararası işletmelerde dijital dönüşümün ve yapay zekânın yönetim ve organizasyonel etkilerini hedeflemektedir. Geliştirilen yenilikçi bir yapay zekâ uygulaması ile uluslararası ve büyük ölçekli işletmelere ait dijital dönüşümle oluşan büyük dijital veriler analiz edilerek, bu verilerin organizasyonel yapılar üzerinde etkin yönetim ve stratejik karar alma süreçlerine katkı sağlaması hedeflenmektedir."
+    },
+    {
+      "@type": "Thesis",
+      "@id": "https://csknozdgn.github.io/#thesis-823236",
+      "name": "İşletmelerde online eğitimin personel üzerine etkilerinin değerlendirilmesi",
+      "alternativeHeadline": "Assessing the effects of online training on employees in businesses",
+      "author": { "@id": "https://csknozdgn.github.io/#person" },
+      "datePublished": "2023",
+      "inLanguage": "tr",
+      "inSupportOf": "Yüksek Lisans (Uluslararası İşletmecilik)",
+      "identifier": "YÖK Tez No: 823236",
+      "url": "https://csknozdgn.github.io/tezler#thesis-823236",
+      "abstract": "Bu çalışma, işletme ortamlarında online eğitimin personel üzerindeki etkilerini değerlendirmeyi hedeflemektedir. İşletme yönetimi, online eğitim ve online eğitimin personel performansına olan etkileri başlıkları altında kapsamlı bir literatür taraması yapılmış ve veriler meta analiz yöntemiyle incelenmiştir."
+    }
+  ]
+}
+</script>
+
+<!-- ========== 3) DİĞER ALT SAYFALAR İÇİN KISA JSON-LD ==========
+Yalnızca "SAYFA_ADI", "SLUG" ve "BASLIK" değerlerini değiştirin (hakkinda, uzmanlik, egitim, profiller). -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://csknozdgn.github.io/SLUG#webpage",
+      "url": "https://csknozdgn.github.io/SLUG",
+      "name": "BASLIK | Coşkun Özdoğan",
+      "inLanguage": "tr",
+      "isPartOf": { "@id": "https://csknozdgn.github.io/#website" },
+      "about": { "@id": "https://csknozdgn.github.io/#person" },
+      "breadcrumb": { "@id": "https://csknozdgn.github.io/SLUG#breadcrumb" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://csknozdgn.github.io/SLUG#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Ana Sayfa", "item": "https://csknozdgn.github.io/" },
+        { "@type": "ListItem", "position": 2, "name": "SAYFA_ADI", "item": "https://csknozdgn.github.io/SLUG" }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://csknozdgn.github.io/#person",
+      "name": "Coşkun Özdoğan",
+      "alternateName": "Coskun Ozdogan",
+      "url": "https://csknozdgn.github.io/"
+    }
+  ]
+}
+</script>
