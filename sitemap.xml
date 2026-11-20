@@ -1,63 +1,87 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://csknozdgn.github.io/</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enindex"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/"/>
+  <url>
+    <loc>https://csknozdgn.github.io/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enindex" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/" />
   </url>
-  <url><loc>https://csknozdgn.github.io/enindex</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enindex"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/"/>
+  <url>
+    <loc>https://csknozdgn.github.io/enindex</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enindex" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/" />
   </url>
-  <url><loc>https://csknozdgn.github.io/hakkinda</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/hakkinda"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enhakkinda"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/hakkinda"/>
+  <url>
+    <loc>https://csknozdgn.github.io/hakkinda</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/hakkinda" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enhakkinda" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/hakkinda" />
   </url>
-  <url><loc>https://csknozdgn.github.io/enhakkinda</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/hakkinda"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enhakkinda"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/hakkinda"/>
+  <url>
+    <loc>https://csknozdgn.github.io/enhakkinda</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/hakkinda" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enhakkinda" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/hakkinda" />
   </url>
-  <url><loc>https://csknozdgn.github.io/uzmanlik</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/uzmanlik"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enuzmanlik"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/uzmanlik"/>
+  <url>
+    <loc>https://csknozdgn.github.io/uzmanlik</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/uzmanlik" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enuzmanlik" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/uzmanlik" />
   </url>
-  <url><loc>https://csknozdgn.github.io/enuzmanlik</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/uzmanlik"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enuzmanlik"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/uzmanlik"/>
+  <url>
+    <loc>https://csknozdgn.github.io/enuzmanlik</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/uzmanlik" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enuzmanlik" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/uzmanlik" />
   </url>
-  <url><loc>https://csknozdgn.github.io/egitim</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/egitim"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enegitim"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/egitim"/>
+  <url>
+    <loc>https://csknozdgn.github.io/egitim</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/egitim" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enegitim" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/egitim" />
   </url>
-  <url><loc>https://csknozdgn.github.io/enegitim</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/egitim"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enegitim"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/egitim"/>
+  <url>
+    <loc>https://csknozdgn.github.io/enegitim</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/egitim" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enegitim" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/egitim" />
   </url>
-  <url><loc>https://csknozdgn.github.io/tezler</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/tezler"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/entezler"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/tezler"/>
+  <url>
+    <loc>https://csknozdgn.github.io/tezler</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/tezler" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/entezler" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/tezler" />
   </url>
-  <url><loc>https://csknozdgn.github.io/entezler</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/tezler"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/entezler"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/tezler"/>
+  <url>
+    <loc>https://csknozdgn.github.io/entezler</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/tezler" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/entezler" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/tezler" />
   </url>
-  <url><loc>https://csknozdgn.github.io/profiller</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/profiller"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enprofiller"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/profiller"/>
+  <url>
+    <loc>https://csknozdgn.github.io/profiller</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/profiller" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enprofiller" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/profiller" />
   </url>
-  <url><loc>https://csknozdgn.github.io/enprofiller</loc><lastmod>2026-11-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/profiller"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enprofiller"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/profiller"/>
+  <url>
+    <loc>https://csknozdgn.github.io/enprofiller</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/profiller" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enprofiller" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/profiller" />
   </url>
 </urlset>
