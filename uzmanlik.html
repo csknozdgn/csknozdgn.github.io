@@ -17,9 +17,13 @@
 <meta property="og:url" content="https://csknozdgn.github.io/uzmanlik">
 <meta property="og:site_name" content="Coşkun Özdoğan">
 <meta property="og:locale" content="tr_TR">
+<meta property="og:locale:alternate" content="en_US">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Uzmanlık Alanları | Coşkun Özdoğan">
 <meta name="twitter:description" content="Yapay zekâ, dijital dönüşüm, stratejik planlama, organizasyonel gelişim ve uluslararası işletmecilik alanlarında Coşkun Özdoğan&#x27;ın uzmanlık alanları.">
+<link rel="alternate" hreflang="tr" href="https://csknozdgn.github.io/uzmanlik">
+<link rel="alternate" hreflang="en-US" href="https://csknozdgn.github.io/enuzmanlik">
+<link rel="alternate" hreflang="x-default" href="https://csknozdgn.github.io/uzmanlik">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -223,6 +227,11 @@ footer{border-top:1px solid var(--line);padding:36px 0 46px;margin-top:30px}.foo
 @media (max-width:960px){.hero{grid-template-columns:1fr;padding-top:120px}.about-grid,.theses,.profile-grid,.skill-grid,.focus-row,.explore{grid-template-columns:1fr}.quote-card{position:static}}
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}html{scroll-behavior:auto}.js .st,.js .reveal{opacity:1;transform:none}}
 
+/* --- dil seçici / language switch --- */
+#navlinks a.lang{border:1px solid var(--line);color:var(--ink);font-weight:600;letter-spacing:.5px;padding:7px 12px;font-size:.84rem}
+#navlinks a.lang:hover{border-color:var(--cyan);color:var(--cyan)}
+.lang-li{margin-left:6px}
+@media (max-width:820px){.lang-li{margin-left:0}#navlinks a.lang{text-align:center}}
 </style>
 <script>document.documentElement.classList.add('js');</script>
 </head>
@@ -245,6 +254,7 @@ footer{border-top:1px solid var(--line);padding:36px 0 46px;margin-top:30px}.foo
       <li><a href="/egitim">Eğitim</a></li>
       <li><a href="/tezler">Tezler</a></li>
       <li><a href="/profiller">Profiller</a></li>
+      <li class="lang-li"><a class="lang" href="/enuzmanlik" hreflang="en-US" lang="en" title="Switch to English (US)" aria-label="Switch to English (US)">EN</a></li>
       <li class="nav-cta"><a class="btn primary small" href="https://www.linkedin.com/in/csknozdgn" target="_blank" rel="me noopener">LinkedIn ↗</a></li>
     </ul>
   </div>
